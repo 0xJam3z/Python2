@@ -1,1 +1,1 @@
-All coursework for CIT-117 and CIT-117L Python Programming 2 Fall 2024
+All coursework for CIT-117 and CIT-117L Python Programming 2 Fall 2024 with Prof. Brian Candido
